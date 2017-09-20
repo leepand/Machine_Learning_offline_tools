@@ -1,3 +1,3 @@
-### Tools using for BigRLab algos
+### Tools using for Machine Learning algos
 
-The BigRLab’s Toolbox code for machine learning and others
+The ML’s Toolbox code for machine learning and others
